@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Foodie",
+    "slug": "foodie",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.Tejas.Food",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./img/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "sdkVersion": "37.0.0",
+    "description": ""
+  }
+}
